@@ -1,9 +1,10 @@
-    __  ______   _____               ___         _ __           
-   / / / /  _/  /  _( )____ ___     /   |  _____(_) /__________ 
+```text
+    __  ______   _____               ___         _ __
+   / / / /  _/  /  _( )____ ___     /   |  _____(_) /__________
   / /_/ // /    / / |// __ `__ \   / /| | / ___/ / __/ ___/ __ \
  / __  // /   _/ /   / / / / / /  / ___ |/ /  / / /_/ /  / /_/ /
-/_/ /_/___/  /___/  /_/ /_/ /_/  /_/  |_/_/  /_/\__/_/   \____/ 
-                                                                
+/_/ /_/___/  /___/  /_/ /_/ /_/  /_/  |_/_/  /_/\__/_/   \____/
+```
 
 I'm currently working on Web Development projects, learning React.js and Node.js, looking for help with Frontend Development and always happy to talk about JavaScript, Linux, and Git. Outside of coding, I enjoy building projects, photography, and singing.
 
