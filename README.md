@@ -1,9 +1,13 @@
 
 
+    __  ______   _____               ___         _ __           
+   / / / /  _/  /  _( )____ ___     /   |  _____(_) /__________ 
+  / /_/ // /    / / |// __ `__ \   / /| | / ___/ / __/ ___/ __ \
+ / __  // /   _/ /   / / / / / /  / ___ |/ /  / / /_/ /  / /_/ /
+/_/ /_/___/  /___/  /_/ /_/ /_/  /_/  |_/_/  /_/\__/_/   \____/ 
+                                                                
 
-
-# About Me:
-I'm currently working on Web Development Projects<br><br>I'm looking for help with frontend Development<br><br>I'm currently learning React, Node.js <br><br>Ask me about JavaScript, Linux & Git<br><br> I love building projects and my hobbies are photography and singing
+I'm currently working on Web Development projects, learning React.js and Node.js, looking for help with Frontend Development and always happy to talk about JavaScript, Linux, and Git. Outside of coding, I enjoy building projects, photography, and singing.
 
 <img width="640" height="356" alt="220125" src="https://github.com/user-attachments/assets/3d71e6c1-e615-49da-9457-b92e156f1355" />
 
