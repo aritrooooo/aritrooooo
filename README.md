@@ -1,6 +1,11 @@
+
+
+
+
 # About Me:
 I'm currently working on Web Development Projects<br><br>I'm looking for help with frontend Development<br><br>I'm currently learning React, Node.js <br><br>Ask me about JavaScript, Linux & Git<br><br> I love building projects and my hobbies are photography and singing
 
+<img width="640" height="356" alt="220125" src="https://github.com/user-attachments/assets/3d71e6c1-e615-49da-9457-b92e156f1355" />
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariitro_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrodas.2005@gmail.com) 
