@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on Web Development Projects<br><br>I'm looking for help with frontend Development<br><br>I'm currently learning React, Node.js <br><br>Ask me about JavaScript, Linux & Git<br><br>Fun fact I love building projects and my hobbies are photography and singing
+I'm currently working on Web Development Projects<br><br>I'm looking for help with frontend Development<br><br>I'm currently learning React, Node.js <br><br>Ask me about JavaScript, Linux & Git<br><br> I love building projects and my hobbies are photography and singing
 
 
 ## Socials:
